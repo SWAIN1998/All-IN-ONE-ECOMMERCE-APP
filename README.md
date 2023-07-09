@@ -116,8 +116,8 @@ Don't forget to give the project a star! Thanks again!
 
 ## 💬Contact Me
   <p>
-    <a href="https://linkedin.com/in/akim-korhonen-swfury"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-    <a href="mailto:akimkorhonen0629@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/rakesh-kumar-swain-8259a7164/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+    <a href="mailto:swainrakeshkumar1998@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
   </p>
   
   <hr/>
