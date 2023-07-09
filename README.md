@@ -67,7 +67,7 @@ You can visit and explore in the ZiShop template at [ZiShop](https://e-commerce-
 
 2. Clone the project
   ```bash
-  git clone https://github.com/kehyshow/E-Commerce-OnlineShop.git
+  git clone https://github.com/SWAIN1998/All-IN-ONE-ECOMMERCE-APP.git
   ```
 3. Install project dependencies
   ```bash
