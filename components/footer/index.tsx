@@ -28,9 +28,7 @@ const Footer = () => {
               display: "inline",
             }}
           />
-          {locale === "en"
-            ? "by Rakesh Kumar Swain"
-            : "بواسطة راكيش كومار سواين"}
+          {locale === "en" ? "by Rakesh Kumar Swain" : "ରାକେଶ କୁମାର ସ୍ୱାଇ"}
         </div>
         <div className="py-1">
           <StartQuot
@@ -52,7 +50,7 @@ const Footer = () => {
           />
           &nbsp;
           <a
-            href="https://cafedx.com/"
+            href="https://rakesh-swain.netlify.app/"
             target="_blank"
             rel="noopener noreferrer"
             className="text-palette-side underline font-bold bg-palette-primary px-2"

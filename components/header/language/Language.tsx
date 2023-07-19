@@ -11,8 +11,16 @@ const Language = () => {
   const [openLang, setOpenLang] = useState(false);
 
   useEffect(() => {
-    document.documentElement.dir = locale === "en" ? "ltr" : "rtl";
+    document.documentElement.dir = locale === "en" ? "ltr" : "ltr";
   }, [locale]);
+
+  useEffect(() => {
+    if (openLang) {
+      dispatch(settingBoxActions.openSettingBox());
+    } else {
+      dispatch(settingBoxActions.closeSettingBox());
+    }
+  }, [openLang, dispatch]);
 
   function onCloseLangBox(isOpen: boolean) {
     setOpenLang(isOpen);
@@ -28,7 +36,7 @@ const Language = () => {
             onCloseBox={() => dispatch(settingBoxActions.closeSettingBox())}
           />
           <LanguageItem
-            language="fa"
+            language="od"
             onCloseBox={() => dispatch(settingBoxActions.closeSettingBox())}
           />
         </div>

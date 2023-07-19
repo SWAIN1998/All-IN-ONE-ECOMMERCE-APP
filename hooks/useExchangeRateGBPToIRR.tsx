@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 import { irrCurrencyFormat } from "../utilities/currencyFormat";
 
 const API_KEY = "230967b967bfa5f86ca99d6c";
-const URL = `https://v6.exchangerate-api.com/v6/${API_KEY}/pair/GBP/IRR`;
+const URL = `https://v6.exchangerate-api.com/v6/${API_KEY}/pair/GBP/INR`;
 
 export const useExchangeRateGBPToIRR = (price: number) => {
   const [exchangePrice, setExchangePrice] = useState<number>(0);
