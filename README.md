@@ -40,7 +40,7 @@ An E-commerce site template, implemented with [Next.js](https://nextjs.org/) and
 
 
 ## ✨Demo
-You can visit and explore in the ZiShop template at [ZiShop](https://e-commerce-onlineshop.vercel.app).
+You can visit and explore in the ZiShop template at [ZiShop](https://all-in-one-ecommerce-app.vercel.app).
 
 ## 🔥Features
 * Using Redux toolkit as state manager
